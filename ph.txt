@@ -1,3 +1,8 @@
 @@||pornhub.com^$important
 @@||phncdn.com^$important
 @@||ht.pornhub.com^$important
+@@||stremio.com^$important
+@@||stremio-cms.s3.amazonaws.com^$important
+@@||cinemeta.strem.io^$important
+@@||api.strem.io^$important
+@@||watchhub.strem.io^$important
